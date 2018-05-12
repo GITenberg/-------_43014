@@ -1,0 +1,42 @@
+_repo: '-------_43014'
+_version: 0.1.0
+alternative_title: Chaoshi ruyan
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chao, Yuezhi
+    aliases:
+    - 晁景迂
+    - Ch'ao, Yueh-chih
+    - 晁說之
+    - Ch'ao, Yüeh-chih
+    - 晁说之
+    - Ch'ao, Shuo-chih
+    - Ch'ao, Ching-yu
+    - Ch'ao, Ching-yü
+    - Chao, Shuozhi
+    - Ch'ao, I-tao
+    - 晁以道
+    - Chao, Jingyu
+    - Chao, Yidao
+    birthdate: 1059
+    deathdate: 1129
+    gutenberg_agent_id: '41987'
+    url: http://www.gutenberg.org/2009/agents/41987
+    wikipedia: http://zh.wikipedia.org/wiki/%E6%99%81%E8%AA%AA%E4%B9%8B
+description: ''
+gutenberg_issued: '2013-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43014'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Chinese literature'
+title: 晁氏儒言 一卷
+url: http://www.gutenberg.org/ebooks/43014
